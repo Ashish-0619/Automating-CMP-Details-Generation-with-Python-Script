@@ -11,6 +11,7 @@ The CMP Details Generator is a Python script designed to automate the generation
 ## Requirements
 
 . Python 3x
+. Pandas library
 
 
 ## How to Use
@@ -24,8 +25,12 @@ git clone https://github.com/Ashish-0619/Automating-CMP-Details-Generation-with-
 cd Automating-CMP-Details-Generation-with-Python-Script
 ```
 3. Update the CMP_data.xls file with your tickets information.
+4. Install required libraries using the following cmd:
+```bash
+pip install -r requirements.txt
+```   
 
-4. Run the Python script:
+6. Run the Python script:
 ```bash
 python test.py
 ```
