@@ -1,4 +1,4 @@
-# CMP Details Generator Python
+# CMP Details Generator
 ## Overview
 The CMP Details Generator is a Python script designed to automate the generation of Customer Management Portal (CMP) details, addressing issues related to manual counting and record-keeping. This script enhances the workflow by providing a more efficient and accurate method of obtaining ticket counts based on specific criteria.
 ## Key Features
